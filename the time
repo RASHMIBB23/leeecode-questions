@@ -9,6 +9,6 @@ BIG (0) NOTATION -> WORST CAE COMPLEXITY (UPPER BOND).
 * avaerage case -> theta(O) 
 * best case ->omega(lowerbond) 
 ----------------------------------------------------
-SPACE COMPLEXITY -> the amount of space taken vby the algorithuim as function of input size(n).
-
-
+SPACE COMPLEXITY -> the amount of space taken vby the algorithuim as function of input size(n).O(1) the it means the algorithium take the same amount od tume regardeless of the input size.(1 ) shqws the constant.
+TIME COMPLEXITY -> O(n) -Time complexity shows that how the nuber if the basic operations in an algorithum grows a the input size n increases.
+growth rate of operations with input size* 
