@@ -1,0 +1,14 @@
+BIG(0) -> IT shows the how the runtime or the memory usgae of an algorithum grows as the input size increases as the input size increwases.
+TIME COMPLEXITY -> MINIMUM STEPS TO FIND THE 
+* we always do the time complexity in the workst case senario 
+* for the input size (n) 
+
+
+BIG (0) NOTATION -> WORST CAE COMPLEXITY (UPPER BOND).
+* worst case(O) -> upperbond 
+* avaerage case -> theta(O) 
+* best case ->omega(lowerbond) 
+----------------------------------------------------
+SPACE COMPLEXITY -> the amount of space taken vby the algorithuim as function of input size(n).O(1) the it means the algorithium take the same amount od tume regardeless of the input size.(1 ) shqws the constant.
+TIME COMPLEXITY -> O(n) -Time complexity shows that how the nuber if the basic operations in an algorithum grows a the input size n increases.
+growth rate of operations with input size* 
